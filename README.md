@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **ayushkumar2467@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** a tournament organizing website
-- 🌱 **I’m currently learning:** full stack web development
+- 🔭 **I’m currently working on:** Feedo - Food Delivery Application
+- 🌱 **I’m currently learning:** Java Spring Boot
 - 📫 **How to reach me:** ayushkumar2467@gmail.com
 - 😄 **Pronouns:** Ayush
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
