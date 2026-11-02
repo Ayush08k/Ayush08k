@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **ayushkumar2467@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-My Portfolio:- https://freelance-ayush.vercel.app/ 
+My Portfolio:- https://www.freelanceayush.com/ 
 
 - 🔭 **I’m currently working on:** Feedo - Food Delivery Application
 - 🌱 **I’m currently learning:** Java Spring Boot
